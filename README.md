@@ -10,3 +10,7 @@ Then:
 
 * Create a [git repository](https://github.com/jx3-gitops-repositories/jx3-openshift/generate)
 * Run the [git operator](https://jenkins-x.io/docs/v3/guides/operator/)
+
+## Fake Content
+
+needing something to commit.
